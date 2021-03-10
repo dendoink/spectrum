@@ -78,6 +78,7 @@ redis-server /usr/local/etc/redis.conf
 - [web-vitals](https://github.com/GoogleChrome/web-vitals#readme)
 - [页面加载性能之 Web Vitals](https://juejin.cn/post/6856768621138919432)
 使用中:
+- [react-loadable](https://github.com/jamiebuilds/react-loadable#readme)
 - [recompose README.md](https://github.com/acdlite/recompose)
 
 ### 探究问题
