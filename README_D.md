@@ -87,6 +87,7 @@ redis-server /usr/local/etc/redis.conf
 - 全局状态管理
 - request 封装
 - 类型
+- react hooks + redux 使用
 
 ### Redux best practice
 
