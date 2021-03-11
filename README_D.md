@@ -96,6 +96,8 @@ redis-server /usr/local/etc/redis.conf
 - 类型
 - react hooks + redux 使用
 - redux devtools
+- vscode lint 配置
+- ts 常用配置
 
 ### best practice
 
