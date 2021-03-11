@@ -76,11 +76,17 @@ redis-server /usr/local/etc/redis.conf
 ### 常用 package 
 推荐:
 - [web-vitals](https://github.com/GoogleChrome/web-vitals#readme)
-- [页面加载性能之 Web Vitals](https://juejin.cn/post/6856768621138919432)
+  [页面加载性能之 Web Vitals](https://juejin.cn/post/6856768621138919432)
+- [classnames](https://www.npmjs.com/package/classnames)
+- [styled components](https://styled-components.com/docs/api)
+  [How to use media queries with styled components](https://jsramblings.com/how-to-use-media-queries-with-styled-components/)
+
 使用中:
 - [react-loadable](https://github.com/jamiebuilds/react-loadable#readme)
 - [recompose README.md](https://github.com/acdlite/recompose)
 - [graphql](https://github.com/graphql/graphql-js)
+- [Raven](https://github.com/getsentry/sentry-javascript)
+  Sentry is Open-source error tracking that helps developers to monitor, fix crashes in real time. Don't forget about boosting the efficiency, improving user experience. Sentry has support for JavaScript, React, Node, Python, PHP, Ruby, Java and other programming languages.
 
 ### 探究问题
 
@@ -96,6 +102,7 @@ redis-server /usr/local/etc/redis.conf
 [redux 三重境](https://juejin.cn/post/6844903475516588040)
 [React-Redux——提供可预测化的状态管理](https://www.jianshu.com/p/ba4a9fbd2971)
 [Redux essentials](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
+[redux vs react context which one should you choose](https://dev.to/ibrahima92/redux-vs-react-context-which-one-should-you-choose-2hhh#:~:text=Redux%20is%20such%20a%20boilerplate,not%20increase%20your%20bundle%20size.)
 
 ### redux 替代方案:
 
