@@ -95,6 +95,7 @@ redis-server /usr/local/etc/redis.conf
 - request 封装
 - 类型
 - react hooks + redux 使用
+- redux devtools
 
 ### Redux best practice
 
