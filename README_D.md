@@ -97,13 +97,14 @@ redis-server /usr/local/etc/redis.conf
 - react hooks + redux 使用
 - redux devtools
 
-### Redux best practice
+### best practice
 
 [Redux有哪些最佳实践?](https://www.zhihu.com/question/47995437)
 [redux 三重境](https://juejin.cn/post/6844903475516588040)
 [React-Redux——提供可预测化的状态管理](https://www.jianshu.com/p/ba4a9fbd2971)
 [Redux essentials](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
 [redux vs react context which one should you choose](https://dev.to/ibrahima92/redux-vs-react-context-which-one-should-you-choose-2hhh#:~:text=Redux%20is%20such%20a%20boilerplate,not%20increase%20your%20bundle%20size.)
+[React Hooks 最佳实践](https://juejin.cn/post/6844904165500518414)
 
 ### redux 替代方案:
 
