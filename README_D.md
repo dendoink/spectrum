@@ -110,6 +110,7 @@ redis-server /usr/local/etc/redis.conf
 
 ### redux 替代方案:
 
+[React Hooks vs. Redux: Do Hooks and Context replace Redux?](https://blog.logrocket.com/use-hooks-and-context-not-react-and-redux/)
 - [lifting-state-up](https://reactjs.org/docs/lifting-state-up.html)
 
 One way to solve this is to extract the shared state from the components, and put it into a centralized location outside the component tree. With this, our component tree becomes a big "view", and any component can access the state or trigger actions, no matter where they are in the tree!
