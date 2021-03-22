@@ -18,7 +18,7 @@ rethinkdb
 
 type below:
 ``` 
-brew update
+arch -x86_64 brew install redis
 brew install redis
 ```
 
